@@ -28,6 +28,7 @@ echoフレームワークのバックエンドと連携する、Next.jsを使用
 - Tailwind CSS
 - Docker
 - Prettier
+- Vercel
 
 ## テスト用ユーザーアカウント
 このプロジェクトの機能をテストするために、本リポジトリ[Website](https://portfolio-frontend-kisamasakis-projects.vercel.app/)にて下記ユーザーアカウントをご利用いただけますが、テスト目的でのみご利用ください。
